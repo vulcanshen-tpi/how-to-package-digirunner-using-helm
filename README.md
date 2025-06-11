@@ -55,7 +55,7 @@ image:
   # This sets the pull policy for images.
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "release-v4.5.5"
+  tag: "release-v4.5.5" # any available digirunner image tag
 ```
 
 `service` part
