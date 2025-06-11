@@ -1,6 +1,11 @@
 # how-to-package-digirunner-using-helm
 Step-by-step guide on how to package the digirunner open source project using Helm.
 
+**Prerequisite**
+
+- helm version: `v3.18.*`
+- [helm installation](https://helm.sh/docs/intro/install/)
+
 **Step 1: Create A New Helm Project**
 
 ```shell
